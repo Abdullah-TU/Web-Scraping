@@ -4,7 +4,7 @@ I am embarking on a web scraping project to collect a diverse range of data for 
 
 # 🏥 Hospital data Scraping
 
-Web Scraping Exercise:
+Web Scraping Exercise: 
 https://www.r-bloggers.com/2016/12/web-scraping-exercises/
 
 Exercise 7
@@ -13,7 +13,6 @@ Extract the links to the detailed information of each hospital. For example, for
 Krankenhaus Dresden-Friedrichstadt Städtisches Klinikum, the details are available on the link:
 https://www.bkk-klinikfinder.de/krankenhaus/index.php?id=26140094900
 
-
-### Total number of links and text: Unknown. Downloaded more than 226,543 links and text.
+Total number of links and text: Unknown. Downloaded more than 226,543 links and text.
 
 
