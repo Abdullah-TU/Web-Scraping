@@ -15,4 +15,6 @@ https://www.bkk-klinikfinder.de/krankenhaus/index.php?id=26140094900
 
 Total number of links and text: Unknown. Downloaded more than 226,543 links and text.
 
+Scraped dataset: https://github.com/Abdullah-TU/Web-Scraping/blob/main/hospital_data.zip
+
 
