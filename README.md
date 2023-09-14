@@ -27,8 +27,8 @@ Scraped dataset: https://github.com/Abdullah-TU/Web-Scraping/blob/main/hospital_
 -  ■ Each image will be named after the person in the picture
 
 <p float="left">
-- ■ male/male images 👨‍💼♂️:
+👨‍💼♂️ Male actor's images:
 <img src="https://github.com/Abdullah-TU/Images-for-Other-Files/blob/07fa59616a72c986f76ea41200cb850bd819f5ef/imdbmale.png" width="1000" height="200">
-- ■ male/female images 🧕♀️:
+🧕♀️ Female actor's images:
 <img src="https://github.com/Abdullah-TU/Images-for-Other-Files/blob/3e713a0b0cd34106446c834d178c5e7fe0b2076f/imdbfemale.png" width="1000" height="200">
 </p>
