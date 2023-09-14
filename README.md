@@ -24,7 +24,7 @@ Scraped dataset: https://github.com/Abdullah-TU/Web-Scraping/blob/main/hospital_
 - a. Collect 10k male/female images from: httos://www.imdb.com
 - ■ Make sure to render the whole page using selenium and then use BeautifulSoup to scrape the images
 - ■ Create a folder for male/female
-
+-  ■ Each image will be named after the person in the picture
 
 
 
