@@ -18,7 +18,7 @@ Total number of links and text: Unknown. Downloaded more than 226,543 links and 
 Scraped dataset: https://github.com/Abdullah-TU/Web-Scraping/blob/main/hospital_data.zip
 
 
-## IMDB Gender images(Male) 👨‍💼♂️ 
+## IMDB Gender images(Male) 👨‍💼♂️ ♀️🧕
 - Suppose we want to build a data set for a Computer vision task that involves gender images.
 - Your tasks are the following:
 - a. Collect 10k male/female images from: httos://www.imdb.com
