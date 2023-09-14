@@ -27,5 +27,5 @@ Scraped dataset: https://github.com/Abdullah-TU/Web-Scraping/blob/main/hospital_
 -  ■ Each image will be named after the person in the picture
 
 <p float="left">
-<img src="[https://github.com/Abdullah-TU/Deep-Learning-Projects/blob/main/emotion_viz.png](https://github.com/Abdullah-TU/Images-for-Other-Files/blob/main/male.png)https://github.com/Abdullah-TU/Images-for-Other-Files/blob/main/male.png" width="1000" height="500">
+<img src="https://github.com/Abdullah-TU/Images-for-Other-Files/blob/main/male.png" width="1000" height="500">
 </p>
