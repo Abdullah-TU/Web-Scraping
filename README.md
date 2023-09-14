@@ -26,6 +26,6 @@ Scraped dataset: https://github.com/Abdullah-TU/Web-Scraping/blob/main/hospital_
 - ■ Create a folder for male/female
 -  ■ Each image will be named after the person in the picture
 
-
+https://github.com/Abdullah-TU/Images-for-Other-Files/blob/main/male.png
 
 
