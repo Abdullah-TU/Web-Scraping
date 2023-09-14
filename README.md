@@ -27,6 +27,6 @@ Scraped dataset: https://github.com/Abdullah-TU/Web-Scraping/blob/main/hospital_
 -  ■ Each image will be named after the person in the picture
 
 <p float="left">
-<img src="https://github.com/Abdullah-TU/Images-for-Other-Files/blob/8d86cccbaa61af6e96bf257fab504b8c927212de/male.png" width="1000" height="500">
-<img src="https://github.com/Abdullah-TU/Images-for-Other-Files/blob/8d86cccbaa61af6e96bf257fab504b8c927212de/male.png" width="1000" height="500">
+<img src="https://github.com/Abdullah-TU/Images-for-Other-Files/blob/07fa59616a72c986f76ea41200cb850bd819f5ef/imdbmale.png" width="1000" height="500">
+
 </p>
