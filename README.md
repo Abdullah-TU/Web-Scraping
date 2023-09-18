@@ -32,7 +32,7 @@ Total number of links and text: Unknown. Downloaded more than 226,543 links and 
 
 Scraped dataset: https://github.com/Abdullah-TU/Web-Scraping/blob/main/hospital_data.zip
 
-## Nasa Satellite Images
+## 🛰️ Nasa Satellite Images 🚀
 - Suppose we want to build a Computer vision dataset that involves satellite images.
 - Your tasks are the following:
 - a. Collect satellite images from https://earthobservatory.nasa.gov/images
@@ -41,7 +41,7 @@ Scraped dataset: https://github.com/Abdullah-TU/Web-Scraping/blob/main/hospital_
 - ■ Create a dictionary where the keys are the images/titles and the values are the images' descriptions.
   
 <p float="left">
-👨‍💼♂️  Satellite images:
+🧑‍🚀 Satellite images:
 <img src="https://github.com/Abdullah-TU/Images-for-Other-Files/blob/65b76b8aaf577c80d68b3bc1118b0005d05d5d6b/salalite.png" width="1000" height="500">
 
 </p>
