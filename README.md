@@ -31,3 +31,18 @@ https://www.bkk-klinikfinder.de/krankenhaus/index.php?id=26140094900
 Total number of links and text: Unknown. Downloaded more than 226,543 links and text.
 
 Scraped dataset: https://github.com/Abdullah-TU/Web-Scraping/blob/main/hospital_data.zip
+
+## Nasa Satellite Images
+- Suppose we want to build a Computer vision task that involves satellite images.
+- Your tasks are the following:
+- a. Collect 10k male/female images from: httos://www.imdb.com
+- ■ Make sure to render the whole page using selenium and then use BeautifulSoup to scrape the images
+- ■ Create a folder for male/female
+-  ■ Each image will be named after the person in the picture
+
+<p float="left">
+👨‍💼♂️ Male actor's images:
+<img src="https://github.com/Abdullah-TU/Images-for-Other-Files/blob/65b76b8aaf577c80d68b3bc1118b0005d05d5d6b/salalite.png" width="1000" height="500">
+
+</p>
+
