@@ -59,8 +59,8 @@ Outcome:
 - Germany: Successfully downloaded a total of 333 jobs.
 
 <p float="left">
-Finland Job Scraping Results image 🇫🇮 
-<img src="https://github.com/Abdullah-TU/Images-for-Other-Files/blob/f767ad6760052878d2ed9604931b04007ae9158c/finland.png" width="1000" height="500">
+🇫🇮 Finland Job Scraping Results image 🏴󠁦󠁩󠀱󠀹󠁿 
+<img src="https://github.com/Abdullah-TU/Images-for-Other-Files/blob/f767ad6760052878d2ed9604931b04007ae9158c/finland.png" width="1000" height="300">
 
 </p>
 
