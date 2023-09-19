@@ -57,7 +57,7 @@ Outcome:
 - Denmark: Successfully downloaded a total of 325 jobs.
 - Sweden: Successfully downloaded a total of 139 jobs.
 - Germany: Successfully downloaded a total of 333 jobs.
-- 
+  
 🔍 Discover the scraped job data in the following files:
 - DS_jobs_denmark.json
 - DS_jobs_finland.json
