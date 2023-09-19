@@ -46,3 +46,21 @@ Scraped dataset: https://github.com/Abdullah-TU/Web-Scraping/blob/main/hospital_
 
 </p>
 
+## Unlocking Job Insights in Data Science and machine learning through Web Scraping across Nordic & German Markets 🌐📊 
+#DataScienceJobs #MarketResearch
+
+The Integrify project aimed to gather comprehensive insights into the Machine Learning and Data Science job markets across five European countries (Finland, Netherlands, Denmark, Sweden, and Germany). The objective was to optimize the curriculum and practices to enhance students' chances of securing job offers. The project involved specific tasks assigned to each group member, focusing on extensive keyword sets and the identification of 20 companies per country. Job offers from each company were collected over a one-year period, resulting in a structured dataset. Ultimately, five dictionaries were created, each representing a country and containing company-specific keyword-post pairings. The project culminated in the successful acquisition of a substantial number of job listings across all targeted countries.
+
+Outcome:
+- Finland: Successfully downloaded a total of 412 jobs.
+- Netherlands: Successfully downloaded a total of 191 jobs.
+- Denmark: Successfully downloaded a total of 325 jobs.
+- Sweden: Successfully downloaded a total of 139 jobs.
+- Germany: Successfully downloaded a total of 333 jobs.
+
+<p float="left">
+🧑‍🚀 Satellite images:
+<img src="https://github.com/Abdullah-TU/Images-for-Other-Files/blob/65b76b8aaf577c80d68b3bc1118b0005d05d5d6b/salalite.png" width="1000" height="500">
+
+</p>
+
