@@ -75,6 +75,14 @@ Outcome:
 
 The Integrify project aimed to gather comprehensive insights into the Full Stack job markets across five European countries (Finland, Netherlands, Denmark, Sweden, and Germany). The objective was to optimize the curriculum and practices to enhance students' chances of securing job offers. The project involved specific tasks assigned to each group member, focusing on extensive keyword sets and the identification of 20 companies per country. Job offers from each company were collected over a one-year period, resulting in a structured dataset. Ultimately, five dictionaries were created, each representing a country and containing company-specific keyword-post pairings. The project culminated in the successful acquisition of a substantial number of job listings across all targeted countries.
 
+Outcome:
+- Finland: Successfully downloaded a total of 578 jobs.
+- Netherlands: Successfully downloaded a total of 1187 jobs.
+- Denmark: Successfully downloaded a total of 230 jobs.
+- Sweden: Successfully downloaded a total of 791 jobs.
+- Germany: Successfully downloaded a total of 473 jobs.
+
+
 <p float="left">
 🇫🇮 Finland Job Scraping Results image 🏴󠁦󠁩󠀱󠀹󠁿 
 <img src="https://github.com/Abdullah-TU/Images-for-Other-Files/blob/f767ad6760052878d2ed9604931b04007ae9158c/finland.png" width="1000" height="400">
