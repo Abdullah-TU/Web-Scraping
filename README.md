@@ -73,7 +73,7 @@ Outcome:
 ## 🌐📊 Unlocking Job Insights in Full Stack through Web Scraping across Nordic & German Markets 
 #FullStackJobs #MarketResearch
 
-
+The Integrify project aimed to gather comprehensive insights into the Full Stack job markets across five European countries (Finland, Netherlands, Denmark, Sweden, and Germany). The objective was to optimize the curriculum and practices to enhance students' chances of securing job offers. The project involved specific tasks assigned to each group member, focusing on extensive keyword sets and the identification of 20 companies per country. Job offers from each company were collected over a one-year period, resulting in a structured dataset. Ultimately, five dictionaries were created, each representing a country and containing company-specific keyword-post pairings. The project culminated in the successful acquisition of a substantial number of job listings across all targeted countries.
 
 <p float="left">
 🇫🇮 Finland Job Scraping Results image 🏴󠁦󠁩󠀱󠀹󠁿 
