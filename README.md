@@ -82,6 +82,12 @@ Outcome:
 - Sweden: Successfully downloaded a total of 791 jobs.
 - Germany: Successfully downloaded a total of 473 jobs.
 
+🔍 Discover the scraped job data in the following files:
+-FS_jobs_denmark.json
+-FS_jobs_finland.json
+-FS_jobs_germany.json
+-FS_jobs_netherlands.json
+-FS_jobs_sweden.json
 
 <p float="left">
 🇫🇮 Finland Job Scraping Results image 🏴󠁦󠁩󠀱󠀹󠁿 
