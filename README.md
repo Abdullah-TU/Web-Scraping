@@ -67,7 +67,7 @@ Outcome:
   
 <p float="left">
 🇫🇮 Finland Job Scraping Results image 🏴󠁦󠁩󠀱󠀹󠁿 
-<img src="https://github.com/Abdullah-TU/Images-for-Other-Files/blob/f767ad6760052878d2ed9604931b04007ae9158c/finland.png" width="1000" height="420">
+<img src="https://github.com/Abdullah-TU/Images-for-Other-Files/blob/f767ad6760052878d2ed9604931b04007ae9158c/finland.png" width="1000" height="400">
 </p>
 
 ## 🌐📊 Unlocking Job Insights in Full Stack through Web Scraping across Nordic & German Markets 
@@ -91,5 +91,5 @@ Outcome:
 
 <p float="left">
 🇫🇮 Finland Job Scraping Results image 🏴󠁦󠁩󠀱󠀹󠁿 
-<img src="https://github.com/Abdullah-TU/Images-for-Other-Files/blob/bf179b90f3fd7e785c42dbf84511cd1932b32ce5/fs.png" width="1000" height="350">
+<img src="https://github.com/Abdullah-TU/Images-for-Other-Files/blob/bf179b90f3fd7e785c42dbf84511cd1932b32ce5/fs.png" width="1000" height="320">
 </p>
