@@ -42,7 +42,7 @@ Scraped dataset: https://github.com/Abdullah-TU/Web-Scraping/blob/main/hospital_
   
 <p float="left">
 🧑‍🚀 Satellite images:
-<img src="https://github.com/Abdullah-TU/Images-for-Other-Files/blob/65b76b8aaf577c80d68b3bc1118b0005d05d5d6b/salalite.png" width="1000" height="500">
+<img src="https://github.com/Abdullah-TU/Images-for-Other-Files/blob/65b76b8aaf577c80d68b3bc1118b0005d05d5d6b/salalite.png" width="1000" height="480">
 
 </p>
 
