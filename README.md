@@ -28,7 +28,7 @@ Exercise 7
 Krankenhaus Dresden-Friedrichstadt Städtisches Klinikum, the details are available on the link:
 https://www.bkk-klinikfinder.de/krankenhaus/index.php?id=26140094900
 
-Total number of links and text: Unknown. Downloaded more than 226,543 links and text.
+✌️Total number of links and text: Unknown. Downloaded more than 226,543 links and text.
 
 Scraped dataset: https://github.com/Abdullah-TU/Web-Scraping/blob/main/hospital_data.zip
 
@@ -90,6 +90,6 @@ The Integrify project aimed to gather comprehensive insights into the Full Stack
 - FS_jobs_sweden.json
 
 <p float="left">
-🇫🇮 Finland Job Scraping Results image 🏴󠁦󠁩󠀱󠀹󠁿 
+🇫🇮 Finland Job Scraping Results image 🏴󠁦󠁩󠀱󠀹󠁿✌️
 <img src="https://github.com/Abdullah-TU/Images-for-Other-Files/blob/bf179b90f3fd7e785c42dbf84511cd1932b32ce5/fs.png" width="1000" height="320">
 </p>
