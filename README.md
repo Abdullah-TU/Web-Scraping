@@ -11,9 +11,9 @@ I am embarking on a web scraping project to collect a diverse range of data for 
 - ■ Each image will be named after the person in the picture.
 
 <p float="left">
-👨‍💼♂️ Male actor's images: 12000+ 
+👨‍💼♂️ Male actor's images: 10000+ 
 <img src="https://github.com/Abdullah-TU/Images-for-Other-Files/blob/07fa59616a72c986f76ea41200cb850bd819f5ef/imdbmale.png" width="1000" height="220">
-🧕♀️ Female actor's images: 12000+ 
+🧕♀️ Female actor's images: 10000+ 
 <img src="https://github.com/Abdullah-TU/Images-for-Other-Files/blob/3e713a0b0cd34106446c834d178c5e7fe0b2076f/imdbfemale.png" width="1000" height="220">
 </p>
 
