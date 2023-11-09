@@ -36,9 +36,9 @@ Scraped dataset: https://github.com/Abdullah-TU/Web-Scraping/blob/main/hospital_
 - Suppose we want to build a Computer vision dataset that involves satellite images.
 - Your tasks are the following:
 - a. Collect satellite images from https://earthobservatory.nasa.gov/images
- - ■ Make sure to render the whole page using selenium and then use BeautifulSoup to scrape the data.
- - ■ Create a repo and name it Images, Save the crowled images based on their titles.
- - ■ Create a dictionary where the keys are the images/titles and the values are the images' descriptions.
+ - Make sure to render the whole page using selenium and then use BeautifulSoup to scrape the data.
+ - Create a repo and name it Images, Save the crowled images based on their titles.
+ - Create a dictionary where the keys are the images/titles and the values are the images' descriptions.
   
 <p float="left">
 🧑‍🚀 Satellite images:
